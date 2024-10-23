@@ -1,0 +1,4 @@
+1. Find minimum number
+2. Find maximum number
+3. Find second maximum number
+4. Reverse the array
