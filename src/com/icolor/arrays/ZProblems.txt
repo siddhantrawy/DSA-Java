@@ -1,4 +1,37 @@
-1. Find minimum number
-2. Find maximum number
+
 3. Find second maximum number
-4. Reverse the array
+
+1. Basic Array Operations
+    -> Array Initialization: Write a program to initialize an array of integers with 10 elements and print the elements.
+    -> Sum of Elements: Write a method that takes an array of integers and returns the sum of its elements.
+    -> Find Maximum and Minimum: Write a program to find the maximum and minimum values in an array of integers.
+    -> Reverse an Array: Write a method to reverse an array in place.
+    -> Count Even and Odd Numbers: Write a program that counts the number of even and odd numbers in an array.
+
+2. Searching and Sorting
+    -> Linear Search: Implement a linear search algorithm to find an element in an array.
+    -> Binary Search: Implement a binary search algorithm to find an element in a sorted array.
+    -> Bubble Sort: Write a method to sort an array using the bubble sort algorithm.
+    -> Selection Sort: Implement the selection sort algorithm to sort an array.
+    -> Insertion Sort: Write a method to sort an array using the insertion sort algorithm.
+
+3. Advanced Array Manipulation
+    -> Rotate Array: Write a program to rotate an array to the right by a given number of steps.
+    -> Merge Two Sorted Arrays: Write a method to merge two sorted arrays into a single sorted array.
+    -> Remove Duplicates: Write a program to remove duplicates from an array.
+    -> Find Intersection: Write a method to find the intersection of two arrays.
+    -> Find Union: Write a method to find the union of two arrays.
+
+4. Multi-Dimensional Arrays
+    -> Matrix Addition: Write a program to add two matrices.
+    -> Matrix Transpose: Write a method to transpose a given matrix.
+    -> Spiral Order Matrix: Write a program to print the elements of a matrix in spiral order.
+    -> Diagonal Sum: Write a method to calculate the sum of the diagonals of a square matrix.
+    -> Rotate Matrix: Write a program to rotate a square matrix by 90 degrees clockwise.
+
+5. Miscellaneous
+    -> Find Missing Number: Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one number that is missing from the array.
+    -> Product of Array Except Self: Write a method that takes an array and returns a new array where each element at index i is the product of all the numbers in the original array except the one at i.
+    -> Kth Largest Element: Write a program to find the Kth largest element in an unsorted array.
+    -> Sub-array with Given Sum: Write a method to find a continuous subarray that adds up to a given sum.
+    -> Two Sum Problem: Write a method that takes an array of integers and a target integer, and returns the indices of the two numbers that add up to the target.
