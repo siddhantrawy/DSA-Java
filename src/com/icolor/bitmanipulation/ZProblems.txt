@@ -1,0 +1,25 @@
+
+1. Bitwise AND (&)
+    -> The bitwise AND operator compares each bit of two integers. If both bits are 1, the result is 1; otherwise, it’s 0.
+
+2. Bitwise OR (|)
+    -> The bitwise OR operator compares each bit of two integers. If at least one of the bits is 1, the result is 1; otherwise, it’s 0.
+
+3. Bitwise XOR (^)
+    -> The bitwise XOR operator compares each bit of two integers. The result is 1 if the bits are different; if they are the same, the result is 0.
+
+4. Bitwise NOT (~)
+    -> The bitwise NOT operator inverts all bits of an integer. Each 0 becomes 1, and each 1 becomes 0.
+
+5. Bitwise Left Shift (<<)
+    -> The left shift operator shifts all bits of a number to the left by a specified number of positions. This effectively multiplies the number by 2 for each shift.
+    -> Each left shift effectively multiplies the number by 2 for each shift position.
+
+6. Bitwise Right Shift (>>)
+    -> The right shift operator shifts all bits of a number to the right by a specified number of positions. For signed integers, it maintains the sign bit (arithmetic shift).
+    -> Each right shift effectively divides the number by 2 for each shift position (using floor division for positive numbers). It retains the sign bit (the leftmost bit), meaning it's an arithmetic shift.
+
+7. Bitwise Unsigned Right Shift (>>>)
+    -> The unsigned right shift operator shifts all bits to the right but fills the leftmost bits with zeros, regardless of the sign of the original number.
+    -> It treats the number as unsigned
+       -> Divides by powers of 2, does not preserve sign (fills with zeros).
