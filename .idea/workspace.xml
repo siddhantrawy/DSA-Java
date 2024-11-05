@@ -4,22 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04a8a8f5-7b78-454f-8399-b7d79b36570e" name="Changes" comment="Third Commit">
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/arrays/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/arrays/FindArraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/arrays/ProblemsBasedOnBinarySearch/Find_First_and_Last_Position_Of_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/Learn_AND_Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/Learn_LeftShift_Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/Learn_Negation_Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/Learn_OR_Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/Learn_RightShift_Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/Learn_UnsignedRightShift_Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/Learn_XOR_Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/ZProblems.txt" afterDir="false" />
+    <list default="true" id="04a8a8f5-7b78-454f-8399-b7d79b36570e" name="Changes" comment="Fourth Commit">
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/arrays/ProblemsBasedOnBinarySearch/Count_Occurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/arrays/ProblemsBasedOnBinarySearch/Peak_Index_In_Mountain_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/arrays/ProblemsBasedOnBinarySearch/Search_Insert_Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/arrays/ProblemsBasedOnBinarySearch/Square_Root.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/ClearFirst_i_Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/ClearRangeOfBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/Clear_ith_Bit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/CountSetBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/Get_ith_Bit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/IsNumberPowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/ReplaceBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/Set_ith_Bit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/SwapTwoNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/ProblemsBasedOnBinarySearch/Find_First_and_Last_Position_Of_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/ProblemsBasedOnBinarySearch/First_And_Last_Occurrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/ZProblems.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/ZProblems.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +71,20 @@
   "keyToString": {
     "Application.BinarySearch.executor": "Run",
     "Application.BubbleSort.executor": "Run",
+    "Application.ClearFirst_i_Bits.executor": "Run",
+    "Application.ClearLast_ith_Bit.executor": "Run",
+    "Application.ClearRangeOfBits.executor": "Run",
+    "Application.Clear_ith_Bit.executor": "Run",
+    "Application.CountSetBits.executor": "Run",
+    "Application.Count_Occurrence.executor": "Run",
+    "Application.DecimalToBinary.executor": "Run",
+    "Application.FindEvenOdd.executor": "Run",
     "Application.FindFibonacciNumber.executor": "Run",
     "Application.FindSum.executor": "Run",
     "Application.Find_First_and_Last_Position_Of_Element.executor": "Run",
+    "Application.Get_ith_Bit.executor": "Run",
     "Application.InsertionSort.executor": "Run",
+    "Application.IsNumberPowerOfTwo.executor": "Run",
     "Application.Learn_AND_Operation.executor": "Run",
     "Application.Learn_LeftShift_Operation.executor": "Run",
     "Application.Learn_Negation_Operation.executor": "Run",
@@ -79,8 +93,13 @@
     "Application.Learn_UnsignedRightShift_Operation.executor": "Run",
     "Application.Learn_XOR_Operation.executor": "Run",
     "Application.LinearSearch.executor": "Run",
+    "Application.Peak_Index_In_Mountain_Array.executor": "Run",
     "Application.RotateArrayRight.executor": "Run",
+    "Application.Search_Insert_Position.executor": "Run",
     "Application.SelectionSort.executor": "Run",
+    "Application.Set_ith_Bit.executor": "Run",
+    "Application.Square_Root.executor": "Run",
+    "Application.SwapTwoNumbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -90,9 +109,22 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Learn_UnsignedRightShift_Operation">
-    <configuration name="Learn_LeftShift_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.icolor.bitmanipulation.Learn_LeftShift_Operation" />
+  <component name="RunManager" selected="Application.Peak_Index_In_Mountain_Array">
+    <configuration name="Count_Occurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.icolor.arrays.ProblemsBasedOnBinarySearch.Count_Occurrence" />
+      <module name="DSA - Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.icolor.arrays.ProblemsBasedOnBinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.icolor.bitmanipulation.DecimalToBinary" />
       <module name="DSA - Java" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Learn_Negation_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.icolor.bitmanipulation.Learn_Negation_Operation" />
+    <configuration name="Peak_Index_In_Mountain_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.icolor.arrays.ProblemsBasedOnBinarySearch.Peak_Index_In_Mountain_Array" />
       <module name="DSA - Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.icolor.bitmanipulation.*" />
+          <option name="PATTERN" value="com.icolor.arrays.ProblemsBasedOnBinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Learn_RightShift_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.icolor.bitmanipulation.Learn_RightShift_Operation" />
+    <configuration name="Search_Insert_Position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.icolor.arrays.ProblemsBasedOnBinarySearch.Search_Insert_Position" />
       <module name="DSA - Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.icolor.bitmanipulation.*" />
+          <option name="PATTERN" value="com.icolor.arrays.ProblemsBasedOnBinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,25 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Learn_UnsignedRightShift_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.icolor.bitmanipulation.Learn_UnsignedRightShift_Operation" />
+    <configuration name="Square_Root" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.icolor.arrays.ProblemsBasedOnBinarySearch.Square_Root" />
       <module name="DSA - Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.icolor.bitmanipulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Learn_XOR_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.icolor.bitmanipulation.Learn_XOR_Operation" />
-      <module name="DSA - Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.icolor.bitmanipulation.*" />
+          <option name="PATTERN" value="com.icolor.arrays.ProblemsBasedOnBinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Learn_UnsignedRightShift_Operation" />
-        <item itemvalue="Application.Learn_LeftShift_Operation" />
-        <item itemvalue="Application.Learn_RightShift_Operation" />
-        <item itemvalue="Application.Learn_Negation_Operation" />
-        <item itemvalue="Application.Learn_XOR_Operation" />
+        <item itemvalue="Application.Peak_Index_In_Mountain_Array" />
+        <item itemvalue="Application.Count_Occurrence" />
+        <item itemvalue="Application.Square_Root" />
+        <item itemvalue="Application.Search_Insert_Position" />
+        <item itemvalue="Application.DecimalToBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -191,13 +210,22 @@
       <option name="project" value="LOCAL" />
       <updated>1729793628174</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fourth Commit">
+      <option name="closed" value="true" />
+      <created>1730071579896</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730071579896</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second Commit" />
     <MESSAGE value="Third Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third Commit" />
+    <MESSAGE value="Fourth Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

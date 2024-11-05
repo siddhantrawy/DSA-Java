@@ -1,5 +1,10 @@
 package com.icolor.arrays;
 
+// Worst time complexity = BigO(logn)
+// Best time complexity = Omega(1)
+// Average time complexity = Theta(logn)
+// Auxiliary space complexity = O(1)
+// Total space complexity = O(n)
 
 // First way to implement binary search -- Best way
 

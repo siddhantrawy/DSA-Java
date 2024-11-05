@@ -23,3 +23,64 @@
     -> The unsigned right shift operator shifts all bits to the right but fills the leftmost bits with zeros, regardless of the sign of the original number.
     -> It treats the number as unsigned
        -> Divides by powers of 2, does not preserve sign (fills with zeros).
+
+
+Basic Programs
+    Check if a number is even or odd: Use bitwise AND.
+    Count the number of set bits (1s): Implement Brian Kernighan's algorithm.
+    Check if a number is a power of two: Use bitwise AND.
+    Swap two numbers without a temporary variable: Use XOR.
+    Clear the ith bit of a number: Use bitwise AND with a mask.
+    Set the ith bit of a number: Use bitwise OR with a mask.
+    Toggle the ith bit of a number: Use bitwise XOR with a mask.
+    Get the ith bit of a number: Use bitwise AND.
+    Left shift a number by n positions: Use the left shift operator.
+    Right shift a number by n positions: Use the right shift operator.
+
+Intermediate Programs
+    Reverse the bits of an integer: Implement a loop to reverse bits.
+    Find the unique element in an array where all other elements appear twice: Use XOR.
+    Determine the number of different bits between two integers: Use XOR and count the set bits.
+    Find the highest set bit in a number: Loop through bits.
+    Rotate bits of a number: Implement bit rotation.
+    Convert a decimal number to binary: Use bitwise operations to extract bits.
+    Perform addition using bitwise operators: Use a loop with 'XOR' and 'AND'.
+    Implement subtraction using bitwise operators: Use addition and negation.
+    Multiply two numbers using bit manipulation: Use shifts and adds.
+    Divide a number by 2 using bit manipulation: Use right shift.
+
+Advanced Programs
+    Find the longest sequence of 1s in a binary representation: Loop through bits.
+    Generate all subsets of a set using bit manipulation: Use combinations of bits.
+    Check if two integers have opposite signs: Use XOR.
+    Calculate the Hamming distance between two integers: Use XOR and count set bits.
+    Implement a simple hash function using bit manipulation: Use shifts and XOR.
+    Find the intersection of two sets using bit manipulation: Use AND operation.
+    Compress data using bit manipulation: Implement basic run-length encoding.
+    Implement a bit field structure: Use an integer to store multiple flags.
+    Find duplicates in an array using bit manipulation: Use a bit array.
+    Implement a priority queue using bit manipulation: Use a binary heap.
+
+Practical Programs
+    Check if a binary tree is a valid binary search tree: Use bit manipulation for comparisons.
+    Implement a basic calculator using bitwise operations: For basic arithmetic.
+    Find the median of a stream of numbers using bit manipulation: Use heaps.
+    Implement a basic encryption/decryption algorithm using bit manipulation: Use XOR with a key.
+    Simulate a simple digital circuit using bit manipulation: Model gates with operators.
+    Check for balanced parentheses using bit manipulation: Use an integer as a counter.
+    Implement a simple game (like tic-tac-toe) using bit manipulation: Use bits to represent board states.
+    Create a bitmap image manipulation tool using bit manipulation: Adjust pixel values.
+    Find the nth Fibonacci number using bit manipulation: Use matrix exponentiation.
+    Count trailing zeros in a binary representation of a number: Loop through bits.
+
+Additional Programs
+    Find the smallest power of two greater than or equal to a number: Use bit manipulation.
+    Generate Gray code for n bits: Use binary and XOR.
+    Implement a bitwise sieve of Eratosthenes: Use bits to mark primes.
+    Create a function to merge two sorted arrays using bit manipulation: Use indices as bits.
+    Implement a simple game of binary addition with bit manipulation: Simulate carry.
+    Calculate the nth triangular number using bit manipulation: Use formula with shifts.
+    Determine if a number is an Armstrong number using bit manipulation: Check digit powers.
+    Create a bit-reversed array: Reverse array using bit manipulation.
+    Sort an array using bit manipulation: Implement a basic bitwise sorting algorithm.
+    Simulate a simple digital clock using bit manipulation: Use bits for hours and minutes.

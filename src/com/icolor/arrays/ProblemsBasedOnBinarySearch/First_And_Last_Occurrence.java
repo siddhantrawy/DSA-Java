@@ -42,7 +42,7 @@ package com.icolor.arrays.ProblemsBasedOnBinarySearch;
 
 // Using binary search
 
-public class Find_First_and_Last_Position_Of_Element {
+public class First_And_Last_Occurrence {
 
     public static void main(String[] args) {
 
