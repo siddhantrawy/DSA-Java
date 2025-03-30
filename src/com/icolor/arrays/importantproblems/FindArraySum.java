@@ -1,4 +1,4 @@
-package com.icolor.arrays;
+package com.icolor.arrays.importantproblems;
 
 public class FindArraySum {
 

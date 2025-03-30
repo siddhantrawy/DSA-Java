@@ -1,4 +1,4 @@
-package com.icolor.arrays;
+package com.icolor.arrays.importantproblems;
 
 import java.util.Scanner;
 

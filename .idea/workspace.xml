@@ -5,25 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04a8a8f5-7b78-454f-8399-b7d79b36570e" name="Changes" comment="Fourth Commit">
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/arrays/ProblemsBasedOnBinarySearch/Count_Occurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/arrays/ProblemsBasedOnBinarySearch/Peak_Index_In_Mountain_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/arrays/ProblemsBasedOnBinarySearch/Search_Insert_Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/arrays/ProblemsBasedOnBinarySearch/Square_Root.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/ClearFirst_i_Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/ClearRangeOfBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/Clear_ith_Bit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/CountSetBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/DecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/Get_ith_Bit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/IsNumberPowerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/ReplaceBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/Set_ith_Bit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/SwapTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/ProblemsBasedOnBinarySearch/Find_First_and_Last_Position_Of_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/ProblemsBasedOnBinarySearch/First_And_Last_Occurrence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/ZProblems.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/bitmanipulation/ZProblems.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/searchingalgorithms/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/sortingalgorithms/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindFibonacciNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindFibonacciNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindMaximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindMinimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindMinimum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindMissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindSecondMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindSecondMaximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/sortingalgorithms/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/searchingalgorithms/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/RotateArrayLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/RotateArrayLeft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/RotateArrayRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/RotateArrayRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/sortingalgorithms/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,15 +98,25 @@
     "Application.Square_Root.executor": "Run",
     "Application.SwapTwoNumbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/siddh/IdeaProjects/DSA-Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/siddh/IdeaProjects/DSA - JAVA/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Peak_Index_In_Mountain_Array">
+  <component name="RunManager">
     <configuration name="Count_Occurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.icolor.arrays.ProblemsBasedOnBinarySearch.Count_Occurrence" />
       <module name="DSA - Java" />
@@ -185,6 +192,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -193,6 +208,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727016319578</updated>
+      <workItem from="1743306432536" duration="1469000" />
     </task>
     <task id="LOCAL-00001" summary="Second Commit">
       <option name="closed" value="true" />
@@ -220,6 +236,9 @@
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second Commit" />

@@ -1,4 +1,4 @@
-package com.icolor.arrays;
+package com.icolor.arrays.sortingalgorithms;
 
 // Worst time complexity = BigO(n^2)
 // Best time complexity = Omega(n)

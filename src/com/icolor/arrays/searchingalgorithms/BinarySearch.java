@@ -1,4 +1,4 @@
-package com.icolor.arrays;
+package com.icolor.arrays.searchingalgorithms;
 
 // Worst time complexity = BigO(logn)
 // Best time complexity = Omega(1)

@@ -1,4 +1,4 @@
-package com.icolor.arrays;
+package com.icolor.arrays.importantproblems;
 
 // Rotate array by 1 -------- First way
 //public class RotateArrayRight {
