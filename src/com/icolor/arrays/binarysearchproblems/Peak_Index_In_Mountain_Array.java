@@ -1,4 +1,4 @@
-package com.icolor.arrays.ProblemsBasedOnBinarySearch;
+package com.icolor.arrays.binarysearchproblems;
 
 public class Peak_Index_In_Mountain_Array {
 

@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04a8a8f5-7b78-454f-8399-b7d79b36570e" name="Changes" comment="Fourth Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/searchingalgorithms/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/sortingalgorithms/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindArraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindFibonacciNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindFibonacciNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindMaximum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindMinimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindMinimum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindMissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/FindSecondMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/FindSecondMaximum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/sortingalgorithms/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/searchingalgorithms/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/RotateArrayLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/RotateArrayLeft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/RotateArrayRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/importantproblems/RotateArrayRight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icolor/arrays/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icolor/arrays/sortingalgorithms/SelectionSort.java" afterDir="false" />
-    </list>
+    <list default="true" id="04a8a8f5-7b78-454f-8399-b7d79b36570e" name="Changes" comment="6th Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,12 +32,12 @@
     &quot;assignee&quot;: &quot;siddhantrawy&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/siddhantrawy/DSA-Java.git&quot;,
-    &quot;accountId&quot;: &quot;be5b8bf6-817c-45a0-9e2b-ab634588b28a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/siddhantrawy/DSA-Java.git",
+    "accountId": "2560e16f-6f8b-48f5-8edc-350ad90841de"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -208,7 +191,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727016319578</updated>
-      <workItem from="1743306432536" duration="1469000" />
+      <workItem from="1743306432536" duration="1950000" />
     </task>
     <task id="LOCAL-00001" summary="Second Commit">
       <option name="closed" value="true" />
@@ -234,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730071579896</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="6th Commit">
+      <option name="closed" value="true" />
+      <created>1743308553085</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743308553085</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +235,8 @@
     <MESSAGE value="Second Commit" />
     <MESSAGE value="Third Commit" />
     <MESSAGE value="Fourth Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fourth Commit" />
+    <MESSAGE value="6th Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

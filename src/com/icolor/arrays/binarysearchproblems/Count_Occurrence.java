@@ -1,4 +1,4 @@
-package com.icolor.arrays.ProblemsBasedOnBinarySearch;
+package com.icolor.arrays.binarysearchproblems;
 
 import java.util.Scanner;
 
